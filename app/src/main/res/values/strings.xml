@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Open Close</string>
+    <string name="app_name">ZorAnime</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="regis">Register</string>
+    <string name="emails">I want now all latest news, \ninformation and offers of ZorAnime</string>
+    <string name="create">Create</string>
+    <string name="terms">By creati ng an account you agree to our Terms of Use \nand our Privacy Policy, further confirming that you are \n16 years of age or older.</string>
+    <string name="userCreate">User created successful</string>
+    <string name="internet">Check your internet connection</string>
+    <string name="fields">Complete all the fields</string>
+    <string name="exist">User already exists</string>
+    <string name="noTerms">Accept the terms and conditions</string>
+    <string name="noLogin">User or password incorrect</string>
+
+
+    <string name="preuba">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</string>
+
+</resources>

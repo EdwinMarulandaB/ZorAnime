@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+   <group android:checkableBehavior="single">
+       <!--
+              <item
+
+                  android:id="@+id/nav_home"
+                  android:title="Home"
+                  android:icon="@drawable/ic_home"/>
+                   -->
+       <item
+           android:id="@+id/nav_directory"
+           android:title="Directorios"
+           android:icon="@drawable/ic_directory"
+           android:checked="true"
+           />
+       <!--
+       <item
+           android:id="@+id/nav_soundtrack"
+           android:title="Soundtrack"
+           android:icon="@drawable/ic_music"/>
+-->
+   </group>
+
+    <item android:title="Novedades">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_capitulos"
+                    android:title="Capitulos"
+                    android:icon="@drawable/ic_videos"/>
+
+
+                <item
+                    android:id="@+id/nav_manga"
+                    android:title="Tomos"
+                    android:icon="@drawable/ic_manga"/>
+
+            </group>
+
+
+        </menu>
+
+
+    </item>
+
+
+
+</menu>

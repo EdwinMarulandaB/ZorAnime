@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#471c57</color>
+    <color name="second">#fbd6d2</color>
+    <color name="white">#ffffff</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#471c57</color>
+    <color name="boton1">#B80101</color>
+    <color name="boton2">#471c57</color>
+    <color name="boton3">#2F019C</color>
+    <color name="boton4">#471c57</color>
+
+    <color name="yellow_500">#B1A53A</color>
+    <color name="orange_900">#FF5722</color>
+    <color name="darkSemiTransparent">#C6000000</color>
+</resources>
